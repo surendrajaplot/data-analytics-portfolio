@@ -1,6 +1,6 @@
 # Surendra Kumar — Data Analytics Portfolio
 
-🎓 MSc Artificial Intelligence, De Montfort University, UK  
+🎓 MSc Artificial Intelligence, Birmingham City University, UK  
 📍 Available for remote opportunities worldwide  
 📧 surenderjaplot21@gmail.com
 
